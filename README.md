@@ -1,8 +1,8 @@
+## This is a markdown file
+
 datasciencecoursera
 ===================
 The Data Scientist’s Toolbox
-
-## Data Science Specialization 
 
 * Uses R 
 * Nine courses 
